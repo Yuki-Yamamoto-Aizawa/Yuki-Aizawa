@@ -15,10 +15,28 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+body {
+  max-width: 60%;
+  margin: auto;
+  font-family: sans-serif;
+  color: #444;
+  font-size: 18px;
+  line-height: 1.6;
+  background-color: #eeeeee;
+}
+
+a {
+  color: #07a;
+}
+
+
+
+
+
 - Bulleted
 - List
 
-1. Numbered
+1. help
 2. List
 
 **Bold** and _Italic_ and `Code` text
